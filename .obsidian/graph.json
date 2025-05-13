@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Terraform  ",
+      "color": {
+        "a": 1,
+        "rgb": 7872511
+      }
+    },
+    {
+      "query": "path:Oracle  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728642
+      }
+    },
+    {
+      "query": "path:SQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 5075199
+      }
+    },
+    {
+      "query": "path:Bash  ",
+      "color": {
+        "a": 1,
+        "rgb": 16580444
+      }
+    },
+    {
+      "query": "path:Nagios  ",
+      "color": {
+        "a": 1,
+        "rgb": 3037439
+      }
+    },
+    {
+      "query": "path:Ansible  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734039
+      }
+    },
+    {
+      "query": "path:LinkedIn  ",
+      "color": {
+        "a": 1,
+        "rgb": 3604735
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.24180968205560033,
+  "close": true
+}

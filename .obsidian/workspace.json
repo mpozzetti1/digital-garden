@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "abd64b1c633095b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c7b6ff47c1c8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc727b8ba128026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Kill Sessions Schema RDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kill Sessions Schema RDS"
+            }
+          },
+          {
+            "id": "fc32ed3fe6beacfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oracle/Install Oracle Enterprise Manager 24ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Install Oracle Enterprise Manager 24ai"
+            }
+          },
+          {
+            "id": "8cbc8c4a9db076fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/Create Linux User.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create Linux User"
+            }
+          },
+          {
+            "id": "44b7b020af7d2b67",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250508105950.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250508105950"
+            }
+          },
+          {
+            "id": "0dc76d0bd239f4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nagios/NagiosXI OS Upgrade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NagiosXI OS Upgrade"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "046a9ebea9c6b3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d919567441d86e65",
+        "type": "tabs",
+        "dimension": 69.13439635535308,
+        "children": [
+          {
+            "id": "1c0b3b34898be418",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "550b859f5842e87d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bea229c9c5287404",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5bac3c5b18b306b",
+        "type": "tabs",
+        "dimension": 30.865603644646924,
+        "children": [
+          {
+            "id": "dad49cf9513afc41",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6068dc0b5439c2cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3aa9b57ad81c9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082f8fc6b69bdd06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cold Email/Instantly Cold Email Strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Instantly Cold Email Strategy"
+            }
+          },
+          {
+            "id": "4e1335fec0fd797a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cold Email/Instantly Cold Email Strategy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Instantly Cold Email Strategy"
+            }
+          },
+          {
+            "id": "60f4f24b781fe968",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05222675619360a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cold Email/Instantly Cold Email Strategy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Instantly Cold Email Strategy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "0dc76d0bd239f4ef",
+  "lastOpenFiles": [
+    "README.md",
+    "Python/Oracle Datapump Project Documentation.md",
+    "Oracle/How to use Natural Language Queries in Oracle 23ai.md",
+    "Terraform/AWS/RDS with Read Replica.md",
+    "Terraform/AWS/Load Balancer.md",
+    "Terraform/AWS/EC2 Autoscaling Group.md",
+    "Ansible/Red Hat Certified Engineer (RHCE) Ansible Automation Study Guide.md",
+    "SQL/Constraints Table Query.md",
+    "SQL/Get DDL for Schema.md",
+    "SQL/Master DBA Objects.md",
+    "SQL/RDS Dumpfile Management.md",
+    "SQL/RDS Storage Info.md",
+    "Oracle/Integrate Amazon RDS for Oracle with Amazon EFS.md",
+    "Oracle/Install Oracle Enterprise Manager 24ai.md",
+    "Oracle/Oracle RDS Archive Logs.md",
+    "Oracle/Oracle Database Administrator Course.md",
+    "Terraform/AWS/VPC and Subnets.md",
+    "Terraform/OCI/OCI Cloud Guard Detector Recipes.md",
+    "Terraform/OCI/OCI Cloud Guard Configuration.md",
+    "Terraform/OCI/OCI Cloud Guard Targets.md",
+    "Nagios/NagiosXI OS Upgrade.md",
+    "LinkedIn/Recursive chmod.md",
+    "LinkedIn/Oracle 23ai Docker.md",
+    "LinkedIn/Obsidian mejor que Notion.md",
+    "LinkedIn/Cómo aprobar exámenes de AWS.md",
+    "Bash/Create Linux User.md",
+    "Images/RHCE-Ansible-Automation-Red-Hat-Developer-ERv4.pdf",
+    "Images/Pasted image 20250508131110.png",
+    "LinkedIn",
+    "Images/Pasted image 20250508112945.png",
+    "Images/Pasted image 20250508105950.png",
+    "Ansible",
+    "Images",
+    "Pasted image 20250505191047.png",
+    "Pasted image 20250505190721.png",
+    "Untitled.canvas",
+    "Terraform/AWS",
+    "Terraform/OCI",
+    "Nagios",
+    "Bash",
+    "Python",
+    "SQL",
+    "Pasted image 20250128151339.png"
+  ]
+}
